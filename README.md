@@ -15,8 +15,7 @@ Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit L�
 
 - 2 Aluminium-Systemprofile 20 x 20 x 250 mm (Grundrahmen)
 - 2 Aluminium-Systemprofile 20 x 20 x 300 mm (Spannrahmen)
-- 2 Aluminium-Systemprofile 20 x 40 x 220 mm (Platinenauflage klein) oder
-- 2 Aluminium-Systemprofile 20 x 60 x 220 mm (Platinenauflage groß)
+- 2 Aluminium-Systemprofile 20 x 40 x 220 mm (Platinenauflage klein) oder 20 x 60 x 220 mm (Platinenauflage groß)
 - 2 Aluminium-Systemprofile 20 x 10 x 200 mm (Einspannung)
 - 2 Aluminium-Winkelprofile 20 x 20 x 260 mm, Materialstärke 1,2 bis 1,5 mm
 - 2 Kunststoff-Scharniere 40 x 40 mm oder 40 x 50 mm
