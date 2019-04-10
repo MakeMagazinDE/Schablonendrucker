@@ -11,6 +11,8 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit Lötpaste. Der Entwurf ist skalierbar, wir empfehlen eine minimale Breite der Innenseite von 200 mm und eine Länge von 250 mm.
 
+Das 3D-Modell wurde mit der kostenlosen Software DesignSpark Mechanical 4 angefertigt (erhältlich über RS Components). Das PDF ist ein 3D-Dokument, zur Ansicht wird eine neuere Version von Acrobat Reader benötigt; es können einzelne Bauteile und Baugruppen ein- und ausgeblendet werden. Eine Ansicht im Browser ist nicht möglich.
+
 Stückliste
 
 - 2 Aluminium-Systemprofile 20 x 20 x 250 mm (Grundrahmen)
@@ -21,8 +23,9 @@ Stückliste
 - 2 Aluminium-Winkelprofile 20 x 20 x 260 mm
 - 2 Kunststoff-Scharniere 40 x 40 mm oder 40 x 50 mm
 - 4 Systemprofil-Winkel 20 x 20 mm
-- 8 Schrauben M4 x 10 mm, Innensechskant
+- 8 Schrauben M4 x 8 mm, Innensechskant
 - 4 Schrauben M4 x 35 mm (evt. als Flügelschrauben zur Höheneinstellung)
+- 6 Schrauben M4 x 16 mm (evt. als Flügel- oder Knebelschrauben zur Einspannung der Schablone)
 - 4 Muttern M4 
 - 16 Unterlegscheiben M4 (Karosseriescheiben, min. 10 mm Durchmesser)
 - 22 Nutensteine M4, Nut 5
