@@ -7,6 +7,6 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 ### Schablonendrucker
 
 
-![Picture](https://github.com/heise/MaXYposi_Grbl_644/blob/master/maxyposi_pcb/platine_ausschnitt.JPG)
+![Picture](https://github.com/heise/Schablonendrucker/blob/master/aufm.png)
 
-Unser auf GRBL basierendes CNC-Steuerungs-Projekt für **4 Achsen und vielen 
+Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit Lötpaste
