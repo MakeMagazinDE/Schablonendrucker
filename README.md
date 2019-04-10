@@ -28,6 +28,9 @@ Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit L�
 - 16 Unterlegscheiben M4 (Karosseriescheiben, min. 10 mm Durchmesser)
 - 22 Nutensteine M4, Nut 5
 - 8 Schrauben M5 x 16
+- 8 Muttern M5
+- 16 Unterlegscheiben M5
+- 8 Zahnscheiben M5
 - 1 Gewindestange M8 x 1000 mm, auf benötigte Länge zusägen
 - 8 Muttern M8
 - 8 Unterlegscheiben M8
