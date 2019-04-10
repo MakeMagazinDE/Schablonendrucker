@@ -7,6 +7,6 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 ### Schablonendrucker
 
 
-![Picture](https://github.com/heise/Schablonendrucker/blob/master/aufm.png)
+![Picture](https://github.com/MakeMagazinDE/Schablonendrucker/blob/master/aufm.png)
 
 Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit Lötpaste
