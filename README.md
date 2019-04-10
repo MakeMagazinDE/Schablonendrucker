@@ -17,10 +17,10 @@ Stückliste
 
 - 2 Aluminium-Systemprofile 20 x 20 x 250 mm (Grundrahmen)
 - 2 Aluminium-Systemprofile 20 x 20 x 300 mm (Spannrahmen)
-- 2 Aluminium-Systemprofile 20 x 40 x 220 mm (Platinenauflage)
+- 2 Aluminium-Systemprofile 20 x 40 x 220 mm (Platinenauflage klein) oder
 - 2 Aluminium-Systemprofile 20 x 60 x 220 mm (Platinenauflage groß)
 - 2 Aluminium-Systemprofile 20 x 10 x 200 mm (Einspannung)
-- 2 Aluminium-Winkelprofile 20 x 20 x 260 mm
+- 2 Aluminium-Winkelprofile 20 x 20 x 260 mm, Materialstärke 1,2 bis 1,5 mm
 - 2 Kunststoff-Scharniere 40 x 40 mm oder 40 x 50 mm
 - 4 Systemprofil-Winkel 20 x 20 mm
 - 8 Schrauben M4 x 8 mm, Innensechskant
