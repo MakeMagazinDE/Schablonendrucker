@@ -8,7 +8,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ![Picture](https://github.com/MakeMagazinDE/Schablonendrucker/blob/master/aufm.png)
 
-Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit Lötpaste. Der Entwurf ist skalierbar, wir empfehlen eine minimale Breite der Innenseite von 200 mm und eine Länge von 250 mm.
+Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit Lötpaste. Der Entwurf ist skalierbar, wir empfehlen eine minimale Breite der Innenseite von 200 mm und eine Länge von 250 mm. Bitte beachten den Artikel in **[Make: 2/2019](https://shop.heise.de/katalog/make-2-2019)**.
 
 ### Stückliste
 
