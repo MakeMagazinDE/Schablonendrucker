@@ -35,6 +35,7 @@ Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit L�
 
 ### Werkzeug
 - Standbohrmaschine
+- Metallbohrer HSS 4,5mm, 5,5mm, 6,5mm, 8mm
 - Stufenbohrer 4-20 mm
 - Metallsäge
 
