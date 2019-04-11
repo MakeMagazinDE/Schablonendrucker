@@ -4,8 +4,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ***
 
-## Schablonendrucker
-
+## SMD-Schablonendrucker
 
 ![Picture](https://github.com/MakeMagazinDE/Schablonendrucker/blob/master/aufm.png)
 
@@ -33,6 +32,11 @@ Schablonendrucker für Edelstahlschablonen zum Bedrucken von SMD-Platinen mit L�
 - 1 Gewindestange M8 x 1000 mm, auf benötigte Länge zusägen
 - 8 Muttern M8
 - 8 Unterlegscheiben M8
+
+### Werkzeug
+- Standbohrmaschine
+- Stufenbohrer 4-20 mm
+- Metallsäge
 
 Das 3D-Modell wurde mit der kostenlosen Software DesignSpark Mechanical 4 angefertigt (erhältlich über RS Components). Das PDF ist ein 3D-Dokument, zur Ansicht wird eine neuere Version von Acrobat Reader benötigt; es können einzelne Bauteile und Baugruppen ein- und ausgeblendet werden. Eine Ansicht im Browser ist nicht möglich.
 
